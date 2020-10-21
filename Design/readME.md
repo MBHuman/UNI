@@ -1,4 +1,4 @@
-*Здесь представлены ссылки на мои проекта
+Здесь представлены ссылки на мои проекты:
 
 
-** https://www.figma.com/file/9Q1QxxCIAzpOrHBBkExVLz/Untitled?node-id=0%3A1
+1. https://www.figma.com/file/9Q1QxxCIAzpOrHBBkExVLz/Untitled?node-id=0%3A1
